@@ -1,0 +1,8 @@
+===============TODO====================
+
++ Resolve confilcts in helpers.js file (same property is been indexed)
++ Finish up tests with jasmine.
++ Build command line interface (implement flags).
++ implement last feature : THE SEARCH!!
++ Refactor reading from JSON file to cover all properties.
++ Setup coveralls
